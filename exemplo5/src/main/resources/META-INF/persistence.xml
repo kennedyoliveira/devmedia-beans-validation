@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persistence xmlns="http://xmlns.jcp.org/xml/ns/persistence" version="2.1">
+
+    <persistence-unit name="default">
+        <!-- Provdedor dos serviços para esse unidade de persistencia (Hibernate) -->
+        <provider>org.hibernate.jpa.HibernatePersistenceProvider</provider>
+        <!-- Datasource do Wildfly, ja vem pre configurado -->
+        <jta-data-source>java:jboss/datasources/ExampleDS</jta-data-source>
+        <!-- Fala para detectar todas as classes como entidades, mesmo que não estejam configuradas aqui -->
+        <exclude-unlisted-classes>false</exclude-unlisted-classes>
+        <!-- Configurações do hibernate-->
+        <properties>
+            <!-- Dialeto do banco, o datasource do wildfly é um H2 -->
+            <property name="hibernate.dialect" value="org.hibernate.dialect.H2Dialect"/>
+            <!-- Detecção automatica de classes de entidade -->
+            <property name="hibernate.archive.autodetection" value="class"/>
+            <!-- Configuração para mostrar SQL -->
+            <property name="hibernate.show_sql" value="true"/>
+            <!-- Formatar o SQL mostrado -->
+            <property name="hibernate.format_sql" value="false"/>
+            <!-- Faz o hibernate criar as tabelas baseado nas entidades configuradas -->
+            <property name="hibernate.hbm2ddl.auto" value="create"/>
+            <!-- Configuração para dizer que a sessão corrente do hibernate vai ser gerenciado através de contextos do JTA -->
+            <property name="current_session_context_class" value="org.hibernate.context.internal.JTASessionContext"/>
+            <!-- Configuração para como o hibernate deve cuidar das transaçoes, no caso vamos usar transações gerenciadas pelo container -->
+            <property name="hibernate.transaction.factory_class" value="org.hibernate.engine.transaction.internal.jta.CMTTransactionFactory"/>
+        </properties>
+    </persistence-unit>
+</persistence>

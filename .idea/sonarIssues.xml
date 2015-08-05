@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="$PROJECT_DIR$/exemplo1/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/exemplo1/src/main/java/br/com/devmedia/beansvalidation/exemplo1/Pessoa.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/exemplo1/src/main/java/br/com/devmedia/beansvalidation/exemplo1/Validar.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/exemplo2/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/exemplo2/src/main/java/br/com/devmedia/beansvalidation/exemplo2/Pessoa.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/exemplo2/src/main/java/br/com/devmedia/beansvalidation/exemplo2/Validar.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/exemplo2/src/main/resources/ValidationMessages.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/exemplo3/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/exemplo3/src/main/java/br/com/devmedia/beansvalidation/exemplo3/ChecarCaptalizacao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/exemplo3/src/main/java/br/com/devmedia/beansvalidation/exemplo3/ChecarMaisculaMinuscula.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/exemplo3/src/main/java/br/com/devmedia/beansvalidation/exemplo3/ChecarMaiusculaMinusculaValidator.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/exemplo3/src/main/java/br/com/devmedia/beansvalidation/exemplo3/Pessoa.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/exemplo3/src/main/java/br/com/devmedia/beansvalidation/exemplo3/Validar.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/exemplo3/src/main/resources/ValidationMessages.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/exemplo4/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/exemplo4/src/main/java/br/com/devmedia/beansvalidation/exemplo4/CEP.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/exemplo4/src/main/java/br/com/devmedia/beansvalidation/exemplo4/CepValidator.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/exemplo4/src/main/java/br/com/devmedia/beansvalidation/exemplo4/Pessoa.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/exemplo4/src/main/java/br/com/devmedia/beansvalidation/exemplo4/PessoaManualServlet.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/exemplo4/src/main/java/br/com/devmedia/beansvalidation/exemplo4/PessoaService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/exemplo4/src/main/java/br/com/devmedia/beansvalidation/exemplo4/PessoaServiceEJB.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/exemplo4/src/main/java/br/com/devmedia/beansvalidation/exemplo4/PessoaServlet.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/exemplo4/src/main/java/br/com/devmedia/beansvalidation/exemplo4/PessoaServlet2.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/exemplo4/src/main/java/br/com/devmedia/beansvalidation/exemplo4/PessoaServletEJB.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/exemplo4/src/main/java/br/com/devmedia/beansvalidation/exemplo4/ValidadorCepBrasil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/exemplo5/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/exemplo5/src/main/java/br/com/devmedia/beansvalidation/exemplo5/Pessoa.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/exemplo5/src/main/java/br/com/devmedia/beansvalidation/exemplo5/PessoaErroServlet.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/exemplo5/src/main/java/br/com/devmedia/beansvalidation/exemplo5/PessoaService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/exemplo5/src/main/java/br/com/devmedia/beansvalidation/exemplo5/PessoaServlet.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/exemplo5/src/main/resources/META-INF/persistence.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/exemplo6/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/exemplo6/src/main/java/br/com/devmedia/beansvalidation/exemplo6/ConstraintViolationExceptionHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/exemplo6/src/main/java/br/com/devmedia/beansvalidation/exemplo6/PessoaController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/exemplo6/src/main/java/br/com/devmedia/beansvalidation/exemplo6/PessoaService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/exemplo6/src/main/java/br/com/devmedia/beansvalidation/exemplo6/RestApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/exemplo6/src/main/webapp/WEB-INF/web.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/exemplo6/target/Exemplo6/WEB-INF/web.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/fragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
